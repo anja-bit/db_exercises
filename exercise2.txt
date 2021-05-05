@@ -1,0 +1,11 @@
+UNF:
+
+db(staffNo,dentistName,patientNo,patientName,appointment(Date,time),surgeryNo)
+
+UNF -> 1NF :
+- remove repeating groups (appointment)
+- define PK
+
+1NF:
+
+

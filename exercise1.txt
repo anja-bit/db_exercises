@@ -1,0 +1,5 @@
+create github repository on github + clone to local machine
+
+git clone http://github.com/anja-bit/db_exercises.git
+
+
